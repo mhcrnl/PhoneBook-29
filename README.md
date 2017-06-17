@@ -2,11 +2,11 @@
 Creating a phonebook
 Using contacts.csv file and create phonebook.
 
-##Instalare
+## Instalare
 ```
 git clone https://github.com/mhcrnl/PhoneBook-29.git
 ```
-##Compilare si executare
+## Compilare si executare
 ``` bash
 javac PhoneBook.java    //compileaza aplicatia
 java PhoneBook          //executa aplicatia
