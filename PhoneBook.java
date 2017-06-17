@@ -17,7 +17,7 @@ public class PhoneBook {
         try{
 
 			//openeing a csv file
-            BufferedReader br = new BufferedReader(new FileReader("Contacts.csv"));
+            BufferedReader br = new BufferedReader(new FileReader("contacts.csv"));
 
             while ((line = br.readLine()) != null) {			//read line by line in the csv file 
 				
