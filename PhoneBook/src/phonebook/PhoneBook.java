@@ -36,6 +36,7 @@ public class PhoneBook {
         } catch (IOException e){
             e.printStackTrace();
         }
+        System.out.println("Programul s-a executat cu succes!");
     }
     
 }
